@@ -23,3 +23,8 @@ hr {
 {
   text-decoration: underline;
 }
+.image{
+  width: 200px;
+  border-radius: 100%;
+}
+
