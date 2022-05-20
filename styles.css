@@ -28,14 +28,19 @@ hr {
   width: 200px;
   border-radius: 100%;
 }
-.igicu {
-width: 200px;
-padding-bottom: 10%;
-padding-left: 100%;
-  
-background-image: url("cloud_computing.jpg");
-background-repeat: repeat;
 
+.igicu {
+
+      background-image: url("cloud_computing.jpg");
+      padding-bottom: 10%; 
+      padding-left: 100%;
+      border-top-left-radius:50%;
+      border-bottom-left-radius:50%;
+      border-top-right-radius:50%;
+      border-bottom-right-radius:50%;
+  
+
+/* background-repeat: repeat; */
 
 }
 
