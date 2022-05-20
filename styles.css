@@ -30,8 +30,11 @@ hr {
 }
 .igicu {
 width: 200px;
+padding-right:700px;
+padding-left: 700px;
+  
 background-image: url("cloud_computing.jpg");
-background-repeat: repeat-x;
+background-repeat: repeat;
 
 
 }
