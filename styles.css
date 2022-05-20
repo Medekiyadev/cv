@@ -28,5 +28,12 @@ hr {
   width: 200px;
   border-radius: 100%;
 }
+.igicu {
+width: 200px;
+background-image: url("cloud_computing.jpg");
+background-repeat: no-repeat;
+background-size: cover; 
+
+}
 
 
